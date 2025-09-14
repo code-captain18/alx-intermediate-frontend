@@ -1,1 +1,6 @@
-
+SASS Installation Steps on Windows:
+I already have Node.js installed v22.14.0.
+Opened alx-intermediate-frontend repo in VS Code
+Ran the bash command: npm install sass --save-dev
+Verified installation with: npx sass --version 
+SASS version installed: 1.92.1 compiled with dart2js 3.9.2
